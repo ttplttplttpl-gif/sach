@@ -36,7 +36,7 @@ const books = [
     price: 125000,
     category: "thieunhi",
     image:
-      "http://thdantruong.nghixuan.edu.vn/upload/59064/fck/hoanglyxd/kinh-van-hoa-tap-1-ki-niem-65-nam-nxb-kim-dong-bia-cung.jpg",
+      "https://www.netabooks.vn/Data/Sites/1/Product/8700/1.jpg",
     desc: "Bộ truyện gắn liền với tuổi thơ của nhiều thế hệ học sinh Việt Nam với những câu chuyện học đường hài hước, kịch tính từ bộ ba Quý ròm, Tiểu Long, Hạnh.",
   },
   {
