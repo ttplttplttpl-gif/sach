@@ -1,4 +1,3 @@
-// DỮ LIỆU DANH SÁCH SÁCH CHẠY ĐỘNG (DỄ DÀNG THÊM MỚI TẠI ĐÂY)
 const books = [
   {
     id: 1,
@@ -35,8 +34,7 @@ const books = [
     author: "Nguyễn Nhật Ánh",
     price: 125000,
     category: "thieunhi",
-    image:
-      "https://www.netabooks.vn/Data/Sites/1/Product/8700/1.jpg",
+    image: "https://www.netabooks.vn/Data/Sites/1/Product/8700/1.jpg",
     desc: "Bộ truyện gắn liền với tuổi thơ của nhiều thế hệ học sinh Việt Nam với những câu chuyện học đường hài hước, kịch tính từ bộ ba Quý ròm, Tiểu Long, Hạnh.",
   },
   {
@@ -48,6 +46,36 @@ const books = [
     image:
       "https://cdn1.fahasa.com/media/catalog/product/i/m/image_188995_1_1.jpg",
     desc: "Cuốn sách tiết lộ những bí mật tại sao một số người lại đạt được những thành công rực rỡ, trong khi số khác lại chật vật qua ngày.",
+  },
+  {
+    id: 6,
+    title: "Thép Đã Tôi Thế Đấy",
+    author: "Nikolai A.Ostrovsky",
+    price: 105000,
+    category: "kynang",
+    image:
+      "https://cdn1.fahasa.com/media/catalog/product/9/7/9786049952012.jpg",
+    desc: "Tiểu thuyết khắc họa hành trình từ một thiếu niên bướng bỉnh thành người chiến sĩ Hồng quân kiên cường, người đã vượt qua nghịch cảnh tàn khốc của chiến tranh và bệnh tật để cống hiến trọn vẹn cho lý tưởng cách mạng.",
+  },
+  {
+    id: 7,
+    title: "Tâm Lý Học Tội Phạm – Khi Kẻ Yếu Trở Thành Kẻ Săn Mồi",
+    author: "Ngưng Thị Thâm Uyên",
+    price: 110000,
+    category: "kynang",
+    image:
+      "https://salt.tikicdn.com/cache/750x750/ts/product/8f/9c/89/251c028f79d164782349b983a841b53b.png.webp",
+    desc: "Khám phá thế giới nội tâm phức tạp này sẽ mang lại cho bạn cảm giác hồi hộp, rùng rợn nhưng cũng rất lôi cuốn, giúp hiểu rõ hơn về góc khuất đen tối nhất của tâm trí con người.",
+  },
+  {
+    id: 8,
+    title: "CM-12 Phía Sau Kế Hoạch Phản Gián",
+    author: "Nguyễn Khắc Đức",
+    price: 210000,
+    category: "vanhoc",
+    image:
+      "https://cdn1.fahasa.com/media/catalog/product/z/7/z7559362432815_58b7db0644c7ffc7e9378ada6274a2f4_2.jpg",
+    desc: "Cuốn sách tái hiện chiến dịch phản gián vĩ đại cùng tên của lực lượng Công an Nhân dân Việt Nam.",
   },
 ];
 
