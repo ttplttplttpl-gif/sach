@@ -144,7 +144,7 @@ const books = [
     price: 94000,
     category: "thieunhi",
     image:
-      "https://cdn.hstatic.net/products/200001055148/peter-pan-song-ngu_dcb7f871e8f04b819ee91dd1c03f3ef4.jpg",
+      "https://cdn1.fahasa.com/media/catalog/product/8/9/8935212367639.jpg",
     desc: "Cuốn sách kể về cậu bé tinh nghịch có khả năng bay lượn và không bao giờ chịu lớn. Cậu sống tại vùng đất thần tiên Neverland cùng các nàng tiên, người thổ dân và nhóm Cậu bé đi lạc. Tại đây, cậu trải qua những cuộc phiêu lưu ly kỳ chống lại Thuyền trưởng Hook hung ác.",
   },
   {
